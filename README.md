@@ -87,12 +87,3 @@ cat modulation_empirical_frechet_mean/README.md
 
 
 Enjoy :)
-
-# Contributors
-
-* Claire Donnat
-* Benjamin Hou
-* Mikael Jorda
-* Alice Le Brigant
-* Johan Mathe
-* Nina Miolane
